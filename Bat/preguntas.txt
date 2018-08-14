@@ -1,0 +1,3 @@
+Descripción más de un producto
+Precios más de un producto
+Precios producto diferente color, en donde los precios cambian
