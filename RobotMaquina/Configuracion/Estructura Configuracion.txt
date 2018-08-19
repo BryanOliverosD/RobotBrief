@@ -1,0 +1,37 @@
+0.- Ruta Servidor Archivo|
+1.- Ruta completa Archivo Local|
+2.- Nombre Archivo|
+3.- Nombre Hoja|
+4.- Celda Inicial primer SKU (B24)|
+5.- Columna TIPO LLAMADO (C)|
+6.- Fila Inicial|
+7.- Columna Marca|
+8.- Columna Descripcion|
+9.- Columna Precio|
+10.- Columna Oferta|
+11.- Columna Categoria|
+12.- Columna SubCategoria|
+13.- Columna URL|
+14.- Columna URL Diseño|
+15.- Columna URL Parte 1|
+16.- Columna URL Parte 2|
+17.- Cantidad de SKU maxima|
+
+	Escritura de 4 campos siguientes
+		PP: Producto Precio
+		LP: Llamado Precio
+		LD: Llamado Descuento
+		PO: Producto
+		Campo 3 corresponde a MARCA (0 no se llena, 1 se llena)
+		Campo 4 corresponde a DESCRIPCIÓN (0 no se llena, 1 se llena)
+		Campo 5 corresponde a PRECIO O DCTO NORMAL (0 no se llena, 1 se llena)
+		Campo 6 corresponde a PRECIO OFERTA (0 no se llena, 1 se llena)
+		Campo 7 corresponde a URL (0 no se llena, 1 se llena)
+		Campo 8 corresponde a URL PARA DISEÑO (0 no se llena, 1 se llena)
+		campo 9 corresponde a Categoria (0 no se llena, 1 se llena)  --PENDIENTE
+		campo 10 corresponde a SubCategoria (0 no se llena, 1 se llena) --PENDIENTE
+18.- PP11111100|
+19.- LP11000000|
+20.- LD11000000|
+21.- PO11001100|
+22.- Muestra mensaje final (SI/NO)

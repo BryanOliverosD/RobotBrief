@@ -1,0 +1,13 @@
+Tantas Filas como destacados tenga
+
+0.- Celda SKU destacado "n"
+1.- Fila inicial destacado "n"
+2.- Columna Marca
+3 - Columna Descripcion
+4.- Columna Oportunidad Unica
+5.- Columna Precio Internet
+6.- Columna Precio Normal
+7.- Columna 6 cuotas CMR
+8.- Columna Exclusivo F.com
+9.- Columna Url
+10.- Cantidad maxima SKU
