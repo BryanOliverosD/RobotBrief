@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft SDKs\Azure\AzCopy\AzCopy.exe" /Source:"C:\Users\jcarrillo\Desktop\RobotGeneral\Brief_Portada\Output" /Dest:https://node3storage.file.core.windows.net/brief-files/Brief_Portada/Output /DestKey:"eN4wZTOidD3ID/8z3XVP7SX7HgQv14gBZu5bDorvWi7JP7v4VJzkUjKodKGRPYrEfmYDJ8jxzN719vDMPpL+Ww==" /Pattern:*.*
